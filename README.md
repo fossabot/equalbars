@@ -1,1 +1,7 @@
 # equalbars
+
+## Browsers compatibility
+
+    - last 2 versions
+    - safari > 8
+    - not ie < 11

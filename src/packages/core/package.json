@@ -1,0 +1,9 @@
+{
+  "name": "@equalbars/core",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ]
+}
